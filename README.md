@@ -1,7 +1,7 @@
 ## Hi, I'm Raghav 👋
 
 
-- 🔭 I’m a JAVA deveeloper
+- 🔭 I’m a JAVA developer
 - 🌱 Trying vibe coding
 - 😊 Sharing about my journey and learnings in tech
 
