@@ -1,8 +1,8 @@
 ## Hi, I'm Raghav 👋
 
 
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m a JAVA deveeloper
+- 🌱 Trying vibe coding
 - 😊 Sharing about my journey and learnings in tech
 
 
